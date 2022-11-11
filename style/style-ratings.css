@@ -1,0 +1,30 @@
+#h1_title {
+  text-align: center;
+}
+
+.profile {
+  width: 100px;
+  float: left;
+  margin: 10px;
+}
+
+.main_profile {
+  float: left;
+}
+
+.star {
+  width: 50px;
+  float: left;
+}
+
+.ratings_text {
+  display: block;
+  margin: 20px;
+}
+
+.ratings-grid {
+  display: block;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+}
